@@ -1,4 +1,4 @@
-// Group Assignment by Wong Kai Jun and Chew Zhi Boon
+// Group Assignment by Chew Zhi Boon
 #include<iostream>
 #include<iomanip>
 #include<string>
